@@ -1,4 +1,4 @@
-package com.flutter_app
+package SuvroneelNathak.i_am_rich_app
 
 import io.flutter.embedding.android.FlutterActivity
 
